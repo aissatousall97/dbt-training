@@ -116,7 +116,7 @@ models:
       - name: organisation_name
 
         
-  - name: fact_travel_income_monthly
+  - name: fact_income_monthly
     description: Ce modèle regroupe les revenus mensuels générés par les réservations d'hôtels et de voitures, ainsi que 
       les abonnements d'entreprises.
     
